@@ -1,0 +1,1 @@
+# Pre-entrega2-Balux initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/abalux/Pre-entrega2-Balux.gitgit push -u origin main
